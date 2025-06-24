@@ -1,5 +1,5 @@
 .attribution { font-size: 11px; text-align: center; }
-.attribution a { color: hsl(228, 45%, 44%); }
+.attribution a { color: #3e52a3; }
 
 body{
     background-color: #141414;
@@ -79,7 +79,7 @@ body{
     color: #141414;
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (min-width: 375px) {
     body {
         padding: 1rem;
     }
